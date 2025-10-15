@@ -16,6 +16,3 @@ A simple feedforward neural network built with PyTorch to classify handwritten d
 - torchvision
 - NumPy
 - Matplotlib
-
-You can install dependencies via pip:
-"pip install torch torchvision numpy matplotlib"
